@@ -142,6 +142,7 @@ return [
     */
 
     'attributes' => [
+        'full_name'             => 'نام و نام خانوادگی',
         'name'                  => 'نام',
         'username'              => 'نام کاربری',
         'email'                 => 'ایمیل',
